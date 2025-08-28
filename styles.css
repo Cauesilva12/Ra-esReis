@@ -77,3 +77,9 @@
 .item.active .title {
     animation: toActive 0.5s ease-in-out 1;
 }
+
+}
+
+.item.active .img.racao{
+    animation: toActive 0.5s ease-in-out 1;
+}
